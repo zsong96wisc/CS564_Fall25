@@ -1,5 +1,5 @@
 Allocating pages in a file...
-Test passed 
+Test passed
 
 Reading pages back...
 Test passed
